@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minguezoidep.github.io/sitemap
+Sitemap: https://minguezoidep.github.io/app/sitemap
+Sitemap: https://minguezoidep.github.io/assets/sitemap
+Sitemap: https://minguezoidep.github.io/css/sitemap
+Sitemap: https://minguezoidep.github.io/includes/sitemap
+Sitemap: https://minguezoidep.github.io/item/sitemap
+Sitemap: https://minguezoidep.github.io/src/sitemap
